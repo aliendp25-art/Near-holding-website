@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630">
+<rect width="1200" height="630" fill="#071a1b"/>
+<circle cx="1000" cy="100" r="300" fill="#00bfa5" opacity=".12"/>
+<text x="90" y="270" fill="#00e0bd" font-size="100"
+font-family="Arial" font-weight="bold">NEAR</text>
+<text x="90" y="390" fill="white" font-size="100"
+font-family="Arial" font-weight="bold">HOLDING</text>
+<text x="95" y="470" fill="#b7d5d1" font-size="32"
+font-family="Arial">Digital Asset Holding Platform</text>
+</svg>
